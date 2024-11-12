@@ -1,6 +1,6 @@
 import ConstrainedBox from "@/components/core/constrained-box";
 import ResponsiveBox from "@/components/core/ResponsiveBox";
-import RazorPayButton from "@/components/common/razor-pay-button";
+
 
 const PaymentMainSection = () => {
   return (
@@ -18,8 +18,6 @@ const PaymentMainSection = () => {
           project. I specialize in creating high-quality, customized solutions
           tailored to your needs.
         </p>
-
-        <RazorPayButton />
       </ConstrainedBox>
     </ResponsiveBox>
   );
