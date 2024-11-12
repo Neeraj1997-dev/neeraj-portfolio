@@ -27,7 +27,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Neeraj Kumar",
   description:
-    "Neeraj Kumar is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
+    "Results-oriented Senior Software Engineer with 6+ years of experience in project management, software architecture, design, and full-stack development. Proficient in Golang, Java, Node.js, and React, with a strong focus on cloud computing using AWS, GCP, Microsoft Azure, and Kubernetes for container orchestration. Extensive hands-on expertise in data modeling for both relational and NoSQL databases. Proven track record in modernizing legacy applications and migrating them to the cloud. Seeking a senior technical role to leverage my technical expertise and leadership skills.",
   robots: {
     index: true,
     follow: true,
